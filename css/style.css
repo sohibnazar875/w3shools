@@ -1,0 +1,288 @@
+
+
+.container{
+    margin: 0 auto;
+}
+.logo{
+    width: 60px;
+    height: 60px;
+}
+.s2{
+    border: none;
+    width: 1000px;
+    font-family: 'Poppins';
+    display: flex;
+    margin-left: 30px;
+}
+.s2:hover{
+    background-color: green;
+    color: white;
+}
+.s1{
+    border: none;
+    width: 100px;
+    display: flex;
+    margin-left: 30px;
+}
+.s1:hover {
+    background-color: green;
+    color: white;
+}
+.sel{
+    display: flex;
+   width: 100px;
+   position: relative;
+   top: 13px;
+}
+.divhead{
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+}
+.input1{
+    border: 1px solid gray;
+    border-radius: 20px;
+    width: 150px;
+    position: relative;
+    top: 15px;
+    left: 380px;
+    height: 25px;
+}
+.fa-magnifying-glass{
+    position: relative;
+    left: 355px;
+    top: 23px;
+}
+.a1{
+    color: black;
+    position: relative;
+    top: 23px;
+    left: 400px;
+}
+.plus{
+    position: relative;
+    top: 21px;
+    left: 600px;
+    margin-left: 50px;
+cursor: pointer;
+}
+.plus1{
+    position: relative;
+    top: 21px;
+    left: 600px;
+}
+
+.fa-quote-left{
+    color: #9763f6;
+    cursor: pointer;
+}
+
+.fa-star{
+    color: #9763f6; 
+    cursor: pointer; 
+}
+.fa-cart-shopping{
+    color: #9763f6;
+    cursor: pointer;
+}
+.nav-item{
+    text-transform: uppercase;
+    width: 110px;
+    height: 40px;
+    border: 1px ;
+    color: gray;
+    margin-left: 15px;
+    overflow: hidden;
+    cursor: pointer;
+}
+.nav{
+    display: flex;
+    width: 1525px;
+    background-color: #282A35;
+}
+.nav-item:hover {
+    background-color:gray ;
+    color: white ;
+}
+.head{
+    display: inline-block;
+    position: relative;
+    bottom: 25px;
+    left: 1300px;
+}
+
+.mm{
+    color: white;
+    width: 95px;
+    background-color: #04AA6D;
+    border: none;
+    border-radius: 20px;
+    height: 30px;
+    position: relative;
+    left: 25px;
+    padding: 7px;
+    cursor: pointer;
+}
+.mmm{
+    color: black;
+    width: 95px; 
+    background-color: #D9EEE1;
+    border: none;
+    border-radius: 20px;
+    height: 30px;
+    padding: 7px;
+    cursor: pointer;
+}
+
+.divhead{
+    height: 40px;
+}
+.nav{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    overflow-y: auto;
+}
+
+.divhead{
+    height: 40px;
+}
+.nav{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    overflow-y: auto;
+}
+
+.over1{
+    width: 300px;
+    background-color:lightcyan ;
+    height: 600px;
+    overflow-y: auto;
+}
+
+.h1{
+    font-family: 'Poppins';
+    position: relative;
+    bottom:600px;
+    left: 350px;
+}
+.tttt{
+    border: none;
+    border-radius: 5px;
+    background-color: #04AA6D;
+    color: white;
+    width: 120px;
+    height: 50px;
+    position: relative;
+    bottom: 600px;
+    left: 350px;
+}
+.ttt{
+    border: none;
+    border-radius: 5px;
+    background-color: #04AA6D;
+    color: white;
+    width: 120px;
+    height: 50px;
+    position: relative;
+    bottom: 600px;
+    left: 870px;
+}
+.malli
+{
+    position: relative;
+    bottom: 550px;
+    left: 350px;
+    border: none;
+    background-color: #D9EEE1;
+    width: 730px;
+    padding: 24px;
+}
+.butt3{
+    width: 250px;
+    height: 40px;
+    background-color: #04AA6D;
+    border: none;
+    border-radius: 30px;
+    color: white;
+}
+.examp{
+    position: relative;
+    bottom: 500px;
+    left: 350px;
+}
+
+html{
+    overflow-x: hidden;
+}
+
+.advers{
+    position: relative;
+    bottom: 1050px;
+    left: 1150px;
+    border-left: 1px solid #f1f1f1;
+    padding-left: 100px;
+}
+
+.over1{
+    position: sticky;
+    top: 0px;
+}
+
+.fdk{
+    position: relative;
+    top: 10px;
+    cursor: pointer;
+}
+
+.nav-item{
+    position: relative;
+    top: 10px;
+}
+
+.searchch{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 350px;
+    top: 20px;
+
+}
+
+.yulduz{
+    width: 20px;
+    position: relative;
+}
+
+.tun{
+    width: 20px;
+}
+
+.arava{
+    width: 20px;
+}
+
+.tu{
+    width: 20px;
+    position: relative;
+    left: 360px;
+    top: 20px;
+}
+
+.ong{
+    width: 15px;
+    position: relative;
+    top: 7px;
+}
+
+.chap{
+    width: 15px;
+    position: relative;
+    top: 7px;
+    right: 60px;
+}
+::placeholder{
+    position: relative;
+    left: 10px;
+}
